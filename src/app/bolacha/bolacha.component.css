@@ -1,0 +1,30 @@
+/* bolacha.component.css */
+
+:host {
+    display: block;
+    width: 200px;
+    padding: 20px;
+    //background-color: #b2dfdb;
+    background-color: rgba(255,117,24, 0.5);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Dosis', sans-serif;
+  }
+  
+  h3 {
+    margin-top: 0;
+    font-size: 18px;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 30px;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  

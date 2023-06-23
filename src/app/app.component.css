@@ -1,0 +1,58 @@
+/* app.component.css */
+
+.menu-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    //background-color: #ffd9e6;
+    //background-color: #62e5b5;
+    background-color: #bfb9b6;
+    border-radius: 1rem 1.5rem 1.25rem;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .menu-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+
+app-bolacha {
+    border-radius: 30px;
+}
+
+
+/* style.css */
+
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  footer a {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    padding: 10px 100px;
+  }
+  
+  footer img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  footer p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    font-family: 'Dosis', 'sans-serif';
+  }
+  
+  .mathfooter {
+    padding: 20px auto;
+  }

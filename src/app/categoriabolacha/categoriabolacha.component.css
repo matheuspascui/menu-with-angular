@@ -1,0 +1,22 @@
+/* categoriabolacha.component.css */
+
+.category-separator {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .separator-line {
+    flex-grow: 1;
+    border: none;
+    height: 1px;
+    background-color: #000;
+    margin: 0 10px;
+  }
+  
+  .separator-text {
+    font-weight: bold;
+    font-size: 16px;
+    color: #000;
+  }
+    
